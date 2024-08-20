@@ -81,6 +81,7 @@ print('RMSE = ',rmse)
 
 ![image](https://github.com/user-attachments/assets/e2d8a188-abb9-41e7-adf5-f6c862643522)
 
+![image](https://github.com/user-attachments/assets/755142fe-63c1-4f50-9366-09f4a06adcdf)
 
 
 ## Result:
